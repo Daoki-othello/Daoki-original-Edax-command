@@ -1,4 +1,4 @@
-# Daoki-s-original-Edax-command
+# Daoki-original-Edax-command
 Add a command of width-deviate and auto-learning
 
 ## Setup
