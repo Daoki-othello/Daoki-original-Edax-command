@@ -1,0 +1,7 @@
+//book diviate 0 0
+[0,0]F5D6C3D3C4F4F6F3E6E7D7G6F8F7
+//book w_deviate -2 2
+w[-2,2]F5D6C3D3C4F4F6F3E6E7D7G6F8F7
+//learn edax vs edax for 10 times with randomness=1
+10-1,F5D6C3D3C4F4F6F3E6E7D7G6F8F7
+fix
