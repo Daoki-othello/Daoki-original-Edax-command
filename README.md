@@ -36,6 +36,7 @@ The command to write in "learning_list.txt" is as follows.
 | book fix | fix | fix |
 | finish auto_learning | end | end |
 
+Example is [here](https://github.com/Daoki-othello/Daoki-original-Edax-command/blob/main/learning_list.txt).
 ## Reference
 [Edax](https://github.com/abulmo/edax-reversi).  
 [edax_runnner](https://github.com/sensuikan1973/edax_runner)
