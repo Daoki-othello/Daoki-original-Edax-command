@@ -4,7 +4,7 @@ Add a command of width-deviate and auto-learning
 ## Setup
 1. Download [Edax](https://github.com/abulmo/edax-reversi).
 2. Replace the "book.c", "book.h", and "edax.c" files in the "src" directory with those from this project.
-3. Build according to [README](https://github.com/abulmo/edax-reversi).
+3. Build according to [README](https://github.com/abulmo/edax-reversi/blob/master/README.md).
 4. Create "learning_list.txt" and "learned_log.txt" in the same directory as "Edax.exe".
 
 ## Usage
